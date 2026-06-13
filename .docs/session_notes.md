@@ -448,6 +448,14 @@ Acamdemic_Leads_SM 10:15 AM
 In ELMo, a BiLSTM uses two LSTMs: one reads the sentence left-to-right and the other right-to-left. For each word, ELMo combines information from both directions, allowing the word's embedding to depend on its surrounding context. This helps ELMo understand the meaning of a word based on the sentence it appears in.
 10:15 AM  
 
+Neha Persai 10:15 AM 
+could you please explain how actually BiLSTM works in terms pf ELMO embedding?
+Acamdemic_Leads_SM 10:15 AM 
+In ELMo, a BiLSTM uses two LSTMs: one reads the sentence left-to-right and the other right-to-left. For each word, ELMo combines information from both directions, allowing the word's embedding to depend on its surrounding context. This helps ELMo understand the meaning of a word based on the sentence it appears in.
+Dron Garg 10:15 AM 
+we are leading to transformers and CNN, RNN, LSTM etc are good to know but do we need to remember these? Are these still used in industry ?
+Acamdemic_Leads_SM 10:16 AM 
+You need to remeber the core concepts, not much more mathematical notations
 
 
 
