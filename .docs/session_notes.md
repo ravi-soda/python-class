@@ -1028,7 +1028,18 @@ The 4x expansion in the feed-forward network comes from the original Transformer
 The reason for expanding and then compressing back is to create a temporary higher-dimensional space where the non-linear activation (ReLU) can learn more complex transformations. In the higher dimension, the model has more room to separate features and create richer representations before projecting back to the original dimension.
 Ravi prasad Reddy Soda (You) 11:59 AM  
 are there different types of attention ?
-Academic_Lead_SM is typing an answer...
+
+Ravi prasad Reddy Soda (You) 11:59 AM 
+are there different types of attention ?
+Academic_Lead_SM 12:06 PM 
+Yes. There are several types of attention used in deep learning:
+
+Self-Attention – a token attends to other tokens in the same sequence (used in Transformers).
+Cross-Attention – one sequence attends to another sequence (e.g., decoder attending to encoder output in translation).
+Masked Self-Attention – prevents a token from seeing future tokens (used in GPT-like models).
+Multi-Head Attention – multiple attention mechanisms run in parallel, each learning different relationships.
+
+
 Abdeali Dodiya 12:00 PM  
 TBH, the lectures should have a better balance between theory and practical implementation. We are spending a lot of time understanding the concepts and formulas but there is very little focus on how to implement them in real world scenarios. Practical exercises hands-on labs & end-to-end examples would help us understand how these concepts are actually used.
 Academic_Lead_SM 12:04 PM 
