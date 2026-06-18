@@ -26,7 +26,7 @@ Faculty Session 1 (30-May) and Session 2 (06-Jun) have passed. Use this phase to
 
 | Day | Session A (Learn) | Session B (Do) |
 |-----|-------------------|----------------|
-| Mon | Python refresher: variables, loops, functions | Kaggle Learn Python — exercises 1–3 |
+| Mon | Python refresher: variables, loops, functions | ~~Kaggle Learn Python — exercises 1–3~~ |
 | Tue | Python: pandas, NumPy basics | Small data wrangling notebook (CSV → summary stats) |
 | Wed | **Rest or light review** | — |
 | Thu | ML I: train/test split, regression, accuracy | Kaggle Intro to ML — first 2 lessons |
