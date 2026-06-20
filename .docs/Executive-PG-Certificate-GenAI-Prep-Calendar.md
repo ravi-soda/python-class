@@ -27,7 +27,7 @@ Faculty Session 1 (30-May) and Session 2 (06-Jun) have passed. Use this phase to
 | Day | Session A (Learn) | Session B (Do) |
 |-----|-------------------|----------------|
 | Mon | Python refresher: variables, loops, functions | ~~Kaggle Learn Python — exercises 1–3~~ |
-| Tue | Python: pandas, NumPy basics | Small data wrangling notebook (CSV → summary stats) |
+| Tue | Python: pandas, NumPy basics | Small data wrangling notebook (CSV → summary stats) (https://middcs.github.io/data-science-notes/source/13-data-wrangling.html) |
 | Wed | **Rest or light review** | — |
 | Thu | ML I: train/test split, regression, accuracy | Kaggle Intro to ML — first 2 lessons |
 | Fri | Transformers overview (3Blue1Brown NN + HF Ch 1 skim) | Draw attention diagram; define token, embedding |
