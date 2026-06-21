@@ -29,7 +29,7 @@ Faculty Session 1 (30-May) and Session 2 (06-Jun) have passed. Use this phase to
 | Mon | Python refresher: variables, loops, functions | ~~Kaggle Learn Python — exercises 1–3~~ |
 | Tue | Python: pandas, NumPy basics | Small data wrangling notebook (CSV → summary stats) [click here](https://middcs.github.io/data-science-notes/source/13-data-wrangling.html) |
 | Wed | **Rest or light review** | — |
-| Thu | ML I: train/test split, regression, accuracy | Kaggle Intro to ML — first 2 lessons |
+| Thu | ML I: train/test split, regression, accuracy | Kaggle Intro to ML — first 2 lessons [fast.ai course on CNN](https://github.com/fastai/courses/tree/master) |
 | Fri | Transformers overview (3Blue1Brown NN + HF Ch 1 skim) | Draw attention diagram; define token, embedding |
 | **Sat** | **Attend Session 2 live** | Rewrite notes in your own words; 10 flashcards |
 | Sun | Catch Session 1: CNN/RNN/DL essentials (recording or fast.ai L1) | Run a pretrained model via Hugging Face pipeline |
