@@ -44,14 +44,15 @@
 
 ### Module 2: Advanced Prompting & RAG
 
-| Live Session No. | Session Title | Date | Day | Time | Instructor |
-|------------------|---------------|------|-----|------|------------|
-| 7 | Advanced Prompting: Chain-of-Thought, Self-consistency, ReAct | 25-Jul-26 | Saturday | 9:00 am – 12:00 pm | Prof. Koustav Rudra |
-| 8 | Advanced Prompting: Prompt optimization, Prompt security, Verbalized Sampling | 01-Aug-26 | Saturday | 9:00 am – 12:00 pm | Prof. Koustav Rudra |
-| 9 | RAG: Motivation, architecture, and sparse retrieval | 08-Aug-26 | Saturday | 9:00 am – 12:00 pm | Prof. Koustav Rudra |
-| 10 | RAG: Dense Retrieval, Semantic Search | 15-Aug-26** | Saturday | 9:00 am – 12:00 pm | Prof. Pawan Goyal |
-| 11 | RAG for Production: query routing, retrieval gateways | 22-Aug-26 | Saturday | 9:00 am – 12:00 pm | Prof. Pawan Goyal |
-| 12 | Agentic Orchestration: Planners vs executors, Context and Memory | 29-Aug-26 | Saturday | 9:00 am – 12:00 pm | Prof. Pawan Goyal |
+| Live Session No. | Session Title | Date | Day | Time | Instructor | Links |
+|------------------|---------------|------|-----|------|------------|------------|
+| 7 | Advanced Prompting: Chain-of-Thought, Self-consistency, ReAct | 25-Jul-26 | Saturday | 9:00 am – 12:00 pm | Prof. Koustav Rudra | 
+[myengineeringpath.dev advanced-prompting](https://myengineeringpath.dev/genai-engineer/advanced-prompting/#6-self-consistency--majority-voting-for-higher-accuracy) |
+| 8 | Advanced Prompting: Prompt optimization, Prompt security, Verbalized Sampling | 01-Aug-26 | Saturday | 9:00 am – 12:00 pm | Prof. Koustav Rudra ||
+| 9 | RAG: Motivation, architecture, and sparse retrieval | 08-Aug-26 | Saturday | 9:00 am – 12:00 pm | Prof. Koustav Rudra ||
+| 10 | RAG: Dense Retrieval, Semantic Search | 15-Aug-26** | Saturday | 9:00 am – 12:00 pm | Prof. Pawan Goyal ||
+| 11 | RAG for Production: query routing, retrieval gateways | 22-Aug-26 | Saturday | 9:00 am – 12:00 pm | Prof. Pawan Goyal ||
+| 12 | Agentic Orchestration: Planners vs executors, Context and Memory | 29-Aug-26 | Saturday | 9:00 am – 12:00 pm | Prof. Pawan Goyal ||
 | — | Proctored Test – 1 | 05-Sep-26 | Saturday | 9:00 am – 12:00 pm | — |
 
 ### Module 3: Fine-Tuning & Alignment
