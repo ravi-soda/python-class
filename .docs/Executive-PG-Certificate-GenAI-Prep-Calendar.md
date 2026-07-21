@@ -160,7 +160,7 @@ Faculty Session 1 (30-May) and Session 2 (06-Jun) have passed. Use this phase to
 
 | Day | Session A | Session B | worksheet |
 |-----|-----------|-----------|---------|
-| Mon | Chain-of-Thought (CoT) papers & examples | CoT vs direct on 5 math/word problems | [cot-prompt](https://colab.research.google.com/github/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/cot-prompting.ipynb) |
+| Mon | Chain-of-Thought (CoT) papers & examples | CoT vs direct on 5 math/word problems | [cot-prompt](https://github.com/ravi-soda/ML_Assignments/blob/main/Jul28/all_prompt_engineering_techniques/cot-prompting.ipynb) |
 | Tue | Self-consistency sampling | Run n=5 samples; majority vote | [self-consistency ex](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/self-consistency.ipynb) |
 | Wed | ReAct: reasoning + acting loop | Manual ReAct trace on a search task ||
 | Thu | Tool-use mental model for agents | Pseudocode a ReAct agent ||
