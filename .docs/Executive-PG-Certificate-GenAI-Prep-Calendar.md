@@ -157,6 +157,7 @@ Faculty Session 1 (30-May) and Session 2 (06-Jun) have passed. Use this phase to
 **Live:** **Session 7** — Chain-of-Thought, Self-consistency, ReAct (25-Jul)
 **Studied:**
 - [myengineeringpath.dev advanced-prompting](https://myengineeringpath.dev/genai-engineer/advanced-prompting/#6-self-consistency--majority-voting-for-higher-accuracy)
+- [Example notebooks](https://github.com/NirDiamant/Prompt_Engineering/tree/main/all_prompt_engineering_techniques)
 
 | Day | Session A | Session B | worksheet |
 |-----|-----------|-----------|---------|
