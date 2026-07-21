@@ -155,16 +155,18 @@ Faculty Session 1 (30-May) and Session 2 (06-Jun) have passed. Use this phase to
 ### Week 8 · 21 Jul – 27 Jul 2026 · Prep for Session 7
 
 **Live:** **Session 7** — Chain-of-Thought, Self-consistency, ReAct (25-Jul)
+**Studied:**
+- [myengineeringpath.dev advanced-prompting](https://myengineeringpath.dev/genai-engineer/advanced-prompting/#6-self-consistency--majority-voting-for-higher-accuracy)
 
-| Day | Session A | Session B |
-|-----|-----------|-----------|
-| Mon | Chain-of-Thought (CoT) papers & examples | CoT vs direct on 5 math/word problems |
-| Tue | Self-consistency sampling | Run n=5 samples; majority vote |
-| Wed | ReAct: reasoning + acting loop | Manual ReAct trace on a search task |
-| Thu | Tool-use mental model for agents | Pseudocode a ReAct agent |
-| Fri | LangChain agents intro (docs) | Minimal ReAct agent in LangChain |
-| **Sat** | **Attend Session 7 live** | Log one full ReAct trace |
-| Sun | Review | Flashcards |
+| Day | Session A | Session B | worksheet |
+|-----|-----------|-----------|---------|
+| Mon | Chain-of-Thought (CoT) papers & examples | CoT vs direct on 5 math/word problems | [cot-prompt](https://colab.research.google.com/github/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/cot-prompting.ipynb) |
+| Tue | Self-consistency sampling | Run n=5 samples; majority vote | [self-consistency ex](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/self-consistency.ipynb) |
+| Wed | ReAct: reasoning + acting loop | Manual ReAct trace on a search task ||
+| Thu | Tool-use mental model for agents | Pseudocode a ReAct agent ||
+| Fri | LangChain agents intro (docs) | Minimal ReAct agent in LangChain ||
+| **Sat** | **Attend Session 7 live** | Log one full ReAct trace ||
+| Sun | Review | Flashcards | |
 
 **Assess:** CoT + self-consistency on one hard reasoning task.
 
